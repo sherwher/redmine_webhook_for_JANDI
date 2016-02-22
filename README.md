@@ -1,3 +1,9 @@
+fork from git://github.com/suer/redmine_webhook.git
+
+and add JANDI  messenger for business support
+
+go to redmine > project > webhook > fill JANDI webhook endpoint > save
+
 Redmine WebHook Plugin
 ======================
 
